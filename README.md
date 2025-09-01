@@ -1,16 +1,30 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Ivan-Shaml.Ivan-Shaml&"  />
+</div>
 
-<!--
-**Ivan-Shaml/Ivan-Shaml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<h1 align="center">Hey there 👋</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">
+  - 🔭 I’m Software Engineer<br>
+  - ⚡ In my free time, I sometimes contribute to Open Source Software projects<br>
+</p>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Ivan-Shaml&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
